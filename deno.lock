@@ -389,6 +389,8 @@
   },
   "redirects": {
     "https://deno.land/std/version.ts": "https://deno.land/std@0.208.0/version.ts",
+    "https://esm.sh/react": "https://esm.sh/react@18.2.0",
+    "https://esm.sh/react-dom/server": "https://esm.sh/react-dom@18.2.0/server",
     "https://x.nest.land/ramda@0.27.0/source/index.js": "https://w5wr43kv2j3pptou6hn6gc2jdecgricl7e4wdtlc7lnojwwac5oa.arweave.net/t20ebVXSdvfN1PHb4wtJGQRooEv5OWHNYvra5NrAF1w/source/index.js"
   },
   "remote": {
@@ -425,6 +427,10 @@
     "https://deno.land/std@0.208.0/assert/unreachable.ts": "4600dc0baf7d9c15a7f7d234f00c23bca8f3eba8b140286aaca7aa998cf9a536",
     "https://deno.land/std@0.208.0/fmt/colors.ts": "34b3f77432925eb72cf0bfb351616949746768620b8e5ead66da532f93d10ba2",
     "https://deno.land/std@0.208.0/version.ts": "a3207ea06bba42f09c7c7ab46590b202c98366f26d2ae31622a4839257dbc790",
+    "https://esm.sh/react-dom@18.2.0/server": "4e27b938451e1f25855754fe5149dd13f554ca75f3c5b387eb453144539c3dc7",
+    "https://esm.sh/react@18.2.0": "8950a34a030620fce8349d6bd3913b3bdb186c5ec7968fa5ba4d054e22d78e6c",
+    "https://esm.sh/stable/react@18.2.0/denonext/react.mjs": "3c4f23bcfc53b256fcfaf6f834fa9f584c3bb7be667b2682c6cb6ba8ef88f8e6",
+    "https://esm.sh/v135/react-dom@18.2.0/denonext/server.js": "ead88af18fb70a507ccab7bc02732e9d225ef224a6de05f4829605008e796750",
     "https://w5wr43kv2j3pptou6hn6gc2jdecgricl7e4wdtlc7lnojwwac5oa.arweave.net/t20ebVXSdvfN1PHb4wtJGQRooEv5OWHNYvra5NrAF1w/source/F.js": "cf0f5fdb08048909e49bb6f222f6e2f92db8d4dc0dd24900864eaf69c3746e3d",
     "https://w5wr43kv2j3pptou6hn6gc2jdecgricl7e4wdtlc7lnojwwac5oa.arweave.net/t20ebVXSdvfN1PHb4wtJGQRooEv5OWHNYvra5NrAF1w/source/T.js": "f96ac2cdaeedf374fb932a4ec368f0566143f0c2d028919976c41c6ee53c0515",
     "https://w5wr43kv2j3pptou6hn6gc2jdecgricl7e4wdtlc7lnojwwac5oa.arweave.net/t20ebVXSdvfN1PHb4wtJGQRooEv5OWHNYvra5NrAF1w/source/__.js": "0d846e36ac0a9ff96c3e17823a98d1379295bf0a12e02c6b54e252d89228acbb",
